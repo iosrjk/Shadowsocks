@@ -57,4 +57,4 @@
 
 请勿用于非法用途，并对自己的任何行爲进行负责。
 
-#### [<< 返回首页](https://shadowsocks-help.github.io)
+#### [<< 返回首页](https://shadowsockshelp.github.io)
