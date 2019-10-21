@@ -6,7 +6,7 @@
 
 <hr>
 
-| 账号1: | 4ssgit@Gmail.com | 密码: | Github1234 | 已下载Shadowrocket小火箭|
+| 账号1: | 4ssgit@Gmail.com | 密码: | 4ssGit1234 | 已下载Shadowrocket小火箭|
 | 账号2: | 1714477@Gmail.com | 密码: | 4ssGit1234 | 
 | 账号3: | 1714411@Gmail.com | 密码: | 4ssGit1234 | 
 
