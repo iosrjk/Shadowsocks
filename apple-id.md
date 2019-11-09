@@ -10,7 +10,9 @@
 
 2、一个苹果手机，当然这个是必须的
 
-3、需要科学上网，推荐使用【美国服务器的SS/SSR节点】，详见：[SS/ShadowsocksR 服务器节点](ss.md)
+3、需要科学上网，推荐使用【美国服务器的SS/SSR节点】，详见：[SS/ShadowsocksR 服务器节点](ss.md) 
+
+4、[V2Ray注册体验](https://v2server.github.io/)
 
 ## 第二步 苹果网站注册
 
