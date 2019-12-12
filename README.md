@@ -53,7 +53,7 @@
 
 ## 7 其他协议-V2ray
 
-[1] [V2Ray注册体验](https://v2server.github.io/)
+[1] [V2Ray注册体验](https://v2sx.github.io/)
 
 ## 8 申明
 
