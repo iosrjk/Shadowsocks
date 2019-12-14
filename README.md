@@ -55,6 +55,8 @@
 
 [1] [V2Ray注册体验](https://v2sx.github.io/)
 
+[2] [V2Ray使用帮助](https://v2sx.github.io/Help)
+
 ## 8 申明
 
 以上信息所有使用者需要遵循使用者所在国家以及服务器所在国家的法律法规。
