@@ -6,8 +6,8 @@
 
 <hr>
 
-| 账号1: | 4ssgit@Gmail.com | 密码: | V2Server | 已下载Shadowrocket小火箭|
-
+<p>账号1:  4ssgit@Gmail.com </p>
+<p>密码：<a href="https://v2sx.github.io/Help/AppleID.html" target="_blank">点击这里获取</a></p>
 
 注：切记请勿登录iCloud，手机被锁我们也无能为力！
 
