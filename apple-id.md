@@ -5,6 +5,8 @@
 你或许不以为然，只是你还不知道什么时候需要！
 苹果美区账号 APPLE ID 免费账号共享 https://github.com/v2net/Apple
 ```
+## 苹果美区账号 APPLE ID 免费账号共享 https://github.com/v2net/Apple
+
 ## 第一步 准备工作，无需信用卡！
 
 1、一个没有注册过AppleID的邮箱，建议最好是Gmail邮箱
