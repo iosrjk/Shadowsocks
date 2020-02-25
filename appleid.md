@@ -6,7 +6,7 @@
 
 ```
 你是否真的需要一个美区APPLE ID账号？
-你或许不以为然，只是你还不知道什么时候需要！ [https://github.com/v2net/Apple](https://github.com/v2net/Apple)
+你或许不以为然，只是你还不知道什么时候需要！ 
 
 ```
 ## 苹果美区账号 APPLE ID 免费账号共享 [https://github.com/v2net/Apple](https://github.com/v2net/Apple)
@@ -32,7 +32,7 @@
 ## 当然你也可以自己注册一个苹果美区APPLE ID账号
 
 每天不同地区的 App Store 都有不同数量的应用下架。下架的原因多种多样，当然国区还要受益于某国特殊的环境。在特殊时期，某类应用还会被批量下架，不要折腾，不要喧嚣，一片和谐多好。国区 App Store 是一个政策妥协的结果，所以必然会导致部分软件的缺失。此外，国区 Apple ID 的 iCloud 功能，目前已由云上贵州托管。
-美区 Apple ID 相对自由，你想要的软件基本上都有。
+美区 Apple ID 相对自由，你想要的软件基本上都有。[https://github.com/v2net/Apple](https://github.com/v2net/Apple)
 
 如何注册美区APPLE ID的终极指南 详见：[如何注册美区APPLE ID的终极指南](https://shadowsockshelp.github.io/Shadowsocks/apple-id.html)
 
