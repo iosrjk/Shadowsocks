@@ -4,10 +4,11 @@
 
 ## 美区苹果商店账号APPLE ID免费共享（偶尔更新请刷新此页面）
 
-<hr>
-
-<p>账号1:  4ssgit@Gmail.com </p>
-<p>密码：<a href="https://v2sx.github.io/Help/AppleID.html" target="_blank">点击这里获取</a></p>
+```
+你是否真的需要一个美区APPLE ID账号？
+你或许不以为然，只是你还不知道什么时候需要！
+```
+## 苹果美区账号 APPLE ID 免费账号共享 https://github.com/v2net/Apple
 
 注：切记请勿登录iCloud，手机被锁我们也无能为力！
 
