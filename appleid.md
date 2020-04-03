@@ -2,15 +2,15 @@
 
 前言：人人都需要一个美区 Apple ID 账号，你或许不以为然，只是你还不知道什么时候需要！
 
-## [美区苹果商店账号APPLE ID免费共享](https://github.com/v2net/Apple)（偶尔更新请刷新此页面）
+## [美区苹果商店账号APPLE ID免费共享](https://github.com/v2net/id)（偶尔更新请刷新此页面）
 
-## 苹果美区账号 APPLE ID 免费账号共享 [https://github.com/v2net/Apple](https://github.com/v2net/Apple)
+## 苹果美区账号 APPLE ID 免费账号共享 [https://github.com/v2net/id](https://github.com/v2net/id)
 
-####  【账号】:  [点击这里获取账号](https://github.com/v2net/Apple) 
+####  【账号】:  [点击这里获取账号](https://github.com/v2net/id) 
 
-####  【密码】:  [点击这里获取密码](https://github.com/v2net/Apple)
+####  【密码】:  [点击这里获取密码](https://github.com/v2net/id)
 
-避免跟丢我们，密码及账号可能会更新，建议收藏本地址: [https://github.com/v2net/Apple](https://github.com/v2net/Apple)
+避免跟丢我们，密码及账号可能会更新，建议收藏本地址: [https://github.com/v2net/id](https://github.com/v2net/id)
 
 注：切记请勿登录iCloud，千万不要在 iCloud 登陆，手机被锁我们也无能为力！若此APPLE ID账号被锁，登录后请选择邮件解锁，我们都会及时的解锁。
 
@@ -26,7 +26,7 @@
 
 ####  美区 Apple ID 相对自由，你想要的软件基本上都有，直接购买账号：[http://apple.5id.xyz](http://apple.5id.xyz)
 
-####  如何注册美区APPLE ID的终极指南 详见：[如何注册美区APPLE ID的终极指南](https://github.com/v2net/Apple/blob/master/id.md)
+####  如何注册美区APPLE ID的终极指南 详见：[如何注册美区APPLE ID的终极指南](https://github.com/v2net/id)
 
 
-### [<< 返回首页](https://github.com/v2net/Apple)
+### [<< 返回首页](https://github.com/v2net/id)
