@@ -2,20 +2,20 @@
 
 ## 1 Shadowsocks 是什么？
 
-[1] [ Shadowsocks ](README.md)是比VPN更科学的一种网络代理，使您可以访问到世界任何角落的互联网。
+[1] [ Shadowsocks ](README.md)是一种比VPN更科学的网络代理，使您可以访问到世界任何角落的互联网。
 
-[2] A secure socks5 proxy,designed to protect your Internet traffic. 
+[2] 一个安全的 socks5 代理，旨在保护您的互联网流量。
 
-[3] [SS/ShadowsocksR付費穩定服務器！一鍵接入，鏈接全球！【推荐】](https://s-s-r.github.io/)
+[3] [SS/ShadowsocksR付费稳定服务器！一键接入，链接全球！【推荐】]https://s-s-r.github.io/()
 
 ## 2 Shadowsocks 如何使用？
 
-[1] 使用很简单：首先 1 下载安装好[客户端](download.md) → 2 扫码添加[SS/SSR节点信息](ss.md)  → 3 设置启用即可
+使用很简单：首先 1 下载安装好[客户端](download.md) → 2 扫码添加[SS/SSR节点信息](ss.md) → 3 设置启用即可
 
 [2] 客户端下载：<a href="https://raw.githubusercontent.com/ShadowsocksHelp/Shadowsocks/master/Download/shadowsocks-windows.zip" target="_blank">微软Windows</a> | 
-<a href="https://shadowsockshelp.github.io/ios/" target="_blank">苹果iPhone/ipad</a> | 
-<a href="https://raw.githubusercontent.com/ShadowsocksHelp/Shadowsocks/master/Download/shadowsocks-android.apk" target="_blank">安卓Android</a> |
-<a href="https://raw.githubusercontent.com/ShadowsocksHelp/Shadowsocks/master/Download/shadowsocks-mac.zip" target="_blank">苹果Mac</a>
+<一个 链接="https://iosrjk.github.io/ios/" 目标="_blank">苹果iPhone/ipad</链接> | 
+<一个 href="https://raw.githubusercontent.com/ShadowsocksHelp/Shadowsocks/master/Download/shadowsocks-android.apk" target="_blank">安卓Android</a> |
+<一个 href="https://raw.githubusercontent.com/ShadowsocksHelp/Shadowsocks/master/Download/shadowsocks-mac.zip" target="_blank">苹果Mac</a>
 
 [3] 如何获取SS/SSR节点信息，详见：[SS/ShadowsocksR 服务器节点 点击获取](ss.md)
 
@@ -57,10 +57,10 @@
 
 [2] [V2Ray使用帮助](https://v2sx.github.io/Help)
 
-## 8 申明
+## 8 声明
 
 以上信息所有使用者需要遵循使用者所在国家以及服务器所在国家的法律法规。
 
 请勿用于非法用途，并对自己的任何行爲进行负责。
 
-#### [<< 返回首页](https://shadowsockshelp.github.io)
+#### [<< 返回首页](https://iosrjk.github.io/)
